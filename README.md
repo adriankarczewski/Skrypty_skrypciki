@@ -1,1 +1,4 @@
 Skrypty_skrypciki
+
+
+!(https://v.wpimg.pl/MWFhOTcuYjYnCjlnTA5vI2RSbT0KV2F1M0p1dkxEdGV2EHhhU1o-MDEYYSMTFik5aBgje1IQezElWX4yBkMsYnRQd2QFFC9jJwp6YlQTemYnCXZjTQUjMGQV)
