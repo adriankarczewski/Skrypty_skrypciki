@@ -1,4 +1,4 @@
 Skrypty_skrypciki
 
 
-!(https://v.wpimg.pl/MWFhOTcuYjYnCjlnTA5vI2RSbT0KV2F1M0p1dkxEdGV2EHhhU1o-MDEYYSMTFik5aBgje1IQezElWX4yBkMsYnRQd2QFFC9jJwp6YlQTemYnCXZjTQUjMGQV)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
